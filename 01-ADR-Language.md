@@ -39,7 +39,7 @@ The system must efficiently handle user operations such as borrowing, extending,
 
 ## Decision Outcome
 
-Chosen option: {"Node.js, GoLang, and HTML/CSS", because they collectively address the concerns of scalability, performance, and developer productivity. Node.js excels in real-time, asynchronous operations, GoLang provides lightweight and performant backend processing, and HTML/CSS ensure a responsive and universally accessible frontend.}
+Chosen option: {"Node.js, JavaScript, GoLang, and HTML/CSS", because they collectively address the concerns of scalability, performance, and developer productivity. Node.js excels in real-time, asynchronous operations, GoLang provides lightweight and performant backend processing, and HTML/CSS ensure a responsive and universally accessible frontend.}
 
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
