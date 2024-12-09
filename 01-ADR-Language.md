@@ -35,7 +35,7 @@ The system must efficiently handle user operations such as borrowing, extending,
 * {C#}
 * {HTML, CSS etc.}
 * {Python}
-* … <!-- numbers of options can vary -->
+* {JavaScript}
 
 ## Decision Outcome
 
@@ -75,7 +75,11 @@ Chosen option: {"Node.js, GoLang, and HTML/CSS", because they collectively addre
 * Good, because {its vast ecosystem of NPM packages speeds up development and reduces repeat code}
 * Bad, because {unhandled asynchronous errors can complicate debugging and maintenance.}
 
-
+### {JavaScript}
+{JavaScript is a core component of the tech stack for the AML Media Library. It enhances interactivity on the frontend and provides a seamless bridge between Node.js and HTML/CSS.}
+* Good, because {JS is essential for creating dynamic web pages, allowing for client side interactivity.}
+* Good, because {It integrates well with both HTML/CSS and NodeJS.}
+* Bad, because {Using JS can result in debugging complexities and inconsistent coding practices due to its flexibility.}
 
 
 
