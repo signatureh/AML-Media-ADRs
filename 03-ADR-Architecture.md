@@ -39,7 +39,7 @@ informed: {Soumya Basu & Chris Bates}
 
 ## Decision Outcome
 
-Chosen option: "{Layered Architecture, because it enforces separation of concerns, improving maintainability and code organization and, ensures the system's functionality while accommodating the geographically distributed nature of the media library system.}"
+Chosen option: "{Service oriented Architecture, because it allows for seperation of use cases within the code, allowing for code that is flexible and maintainable.}"
 
 
 ### Consequences
