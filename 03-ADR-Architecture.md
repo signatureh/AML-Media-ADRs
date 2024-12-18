@@ -6,7 +6,7 @@ title: Monolithic vs Microservice vs Layered Architecture
 
 status: "{proposed}"
 date: {07-12-24 when the decision was last updated}
-decision-makers: {Harvey Spencer, Ethan Hemmingway, James Kerridge, Tasnim Begum}
+decision-makers: {Harvey Spencer, Ethan Hemingway, James Kerridge, Tasnim Begum}
 consulted: {Soumya Basu & Chris Bates}
 informed: {Soumya Basu & Chris Bates}
 
