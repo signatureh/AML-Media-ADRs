@@ -7,7 +7,7 @@ title: Language Choices for AML Media Library
 
 status: accepted
 date: {2024-10-10 when the decision was last updated}
-decision-makers: {Harvey Spencer, Ethan Hemmingway, James Kerridge, Tasnim Begum}
+decision-makers: {Harvey Spencer, Ethan Hemingway, James Kerridge, Tasnim Begum}
 consulted: {Soumya Basu & Chris Bates}
 informed: {Soumya Basu & Chris Bates}
 ---
