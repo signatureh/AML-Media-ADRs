@@ -7,7 +7,7 @@ title: Database Choice
 
 status: proposed
 date: 07/12/24
-decision-makers: {Harvey Spencer, Ethan Hemmingway, James Kerridge, Tasnim Begum}
+decision-makers: {Harvey Spencer, Ethan Hemingway, James Kerridge, Tasnim Begum}
 consulted: {Soumya Basu & Chris Bates}
 informed: {Soumya Basu & Chris Bates}
 ---
